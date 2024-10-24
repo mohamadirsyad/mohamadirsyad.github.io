@@ -1,2 +1,2 @@
 portofolio
-https://irsyadporfolio.rf.gd/?i=1
+https://mohamadirsyad-github-io.vercel.app/
